@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    ".vscode/": true,
+    "pom.xml": true,
+    "**/*.d.ts": true,
+    "repo/": true,
+    "src/main/java/": true,
+    "src/main/webapp/images/": true,
+    "src/main/webapp/WEB-INF/": true,
+    "src/main/webapp/lib/": true,
+    "src/main/webapp/index.html": true,
+    "src/main/webapp/jsconfig.json": true,
+    "src/test/": true,
+    "target/": true
+  },
+  "editor.tabSize": 2,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "cSpell.words": [
+    "xtype"
+  ]
+}
